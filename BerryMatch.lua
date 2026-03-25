@@ -225,7 +225,7 @@ local function build_summary(processed, skipped, type_choice)
 end
 
 local function main()
-    msg("=== BerryMatch2 TRACE START ===")
+    msg("BerryMatch START")
     
     
 
